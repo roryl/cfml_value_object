@@ -13,7 +13,7 @@
         "URL":""
     },
     "bugs":"",
-    "slug":"my-package",
+    "slug":"cfml_value_object",
     "shortDescription":"A sweet package",
     "description":"",
     "instructions":"",
@@ -48,7 +48,7 @@
         "testbox":"2.2.0"
     },
     "installPaths":{
-        "testbox":"testbox"
+        "testbox":"cfml_value_object/testbox"
     },
     "ignore":[
         "**/.*",

@@ -59,5 +59,5 @@ Returns the length of the value of the property.
 
 Only works with value objects which have a single property.
 
-###public boolean equals(reqired valueObject ob)
+###public boolean equals(required valueObject ob)
 Takes a value object and compares the value of the properties of the objects to each other. Override the equals() function in your value object if your comparison use case is more specific than simply comparing the values of the properties.
